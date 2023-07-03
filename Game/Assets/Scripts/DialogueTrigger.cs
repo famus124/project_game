@@ -16,7 +16,6 @@ public class DialogueTrigger : MonoBehaviour
     public class Actor
     {
         public string name;
-        Unity.en
     }
 
 }
