@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class DialogueTrigger : MonoBehaviour
 {
-    void Start() { }
+    void Start() { 
+    }
     void Update() { }
 
     public class Message
